@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @AcNdike
+- 👋 Hi, I’m @Acwengile Ngqutwana
+- 
 - 👀 I’m interested in ...Data analytics and Data processing
 - 🌱 I’m currently learning ... Data Science at Stellenbosch University
 - 💞️ I’m looking to collaborate on ...Beginner software development
